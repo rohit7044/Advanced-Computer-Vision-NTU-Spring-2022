@@ -1,0 +1,25 @@
+﻿  hw3.cpp
+D:\College Works\Spring 2022\Advanced Computer Vision\ACV_HomeWorks\ACV_HomeWorks\hw3.cpp(51,86): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\College Works\Spring 2022\Advanced Computer Vision\ACV_HomeWorks\ACV_HomeWorks\hw3.cpp(51,54): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Generating code
+  7 of 300 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ACV_HomeWorks.vcxproj -> D:\College Works\Spring 2022\Advanced Computer Vision\ACV_HomeWorks\x64\Release\ACV_HomeWorks.exe
